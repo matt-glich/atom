@@ -53,7 +53,7 @@
     "terser": "^3.8.1",
     "webdriverio": "^5.9.2",
     "yargs": "4.8.1",
-    "snyk": "^1.428.2"
+    "snyk": "^1.518.0"
   },
   "scripts": {
     "postinstall": "node ./redownload-electron-bins.js",
